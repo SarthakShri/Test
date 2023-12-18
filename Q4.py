@@ -23,3 +23,9 @@ def  getLexiLargest(word):
 getLexiLargest("acfgh")
 getLexiLargest("dbace")
 getLexiLargest("hello")
+
+
+#Output
+hcfga
+ebacd
+oellh
