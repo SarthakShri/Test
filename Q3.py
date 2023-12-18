@@ -45,3 +45,7 @@ def getMin(arr):
 
 getMax([1,2,4,-9, 6,4])
 getMin([1,2,4,-9, 6,4])
+
+#Output
+107.0
+-198.0
